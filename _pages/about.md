@@ -3,7 +3,7 @@ title: "About"
 layout: textlay
 excerpt: "About"
 sitemap: false
-permalink: /about.html
+permalink: /about/
 ---
 
 # Use this Site as a Template (by Allan Lab)
