@@ -6,12 +6,9 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
-## Group highlights
-
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+### Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,7 +49,9 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+### Full List
+
+For a detailed list go to [Google Scholar](https://scholar.google.com/citations?user=mxLN1rUAAAAJ&hl=el) or [ResearchGate](https://www.researchgate.net/profile/Kleanthis_Avramidis)
 
 {% for publi in site.data.publist %}
 
