@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Kleanthis - CV"
 layout: gridlay
 excerpt: "Curriculum Vitae"
 sitemap: false
