@@ -10,9 +10,9 @@ permalink: /cv/
 
 ### Personal Details
 
-*Address*: Achaion 25, 15343  
-*Location*: Aghia Paraskevi, Attica, Greece  
-*Contact*: +306934633122, kle.avramidis@gmail.com
+Address: Achaion 25, 15343  
+Location: Aghia Paraskevi, Attica, Greece  
+Contact: +306934633122, kle.avramidis@gmail.com
 
 **[Here](https://klean2050.github.io/projects/) for my research interests**  
 **[Here](https://klean2050.github.io/publications/) for my publications**  
