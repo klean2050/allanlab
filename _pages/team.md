@@ -23,7 +23,7 @@ BSc & MEng in Electrical & Computer Engineering (5-year joint degree)
 • Projected Final GPA 8.4/10 - estimated at top 10-15% among graduate class  
 • Diploma Thesis: “Affective Analysis and Interpretation of Brain Responses to Music Stimuli”, supervised by Prof. Petros Maragos  
 • Signals, Automatic Control and Robotics Main Specialization - GPA 9.14/10  
-• Computer Systems & Computer Software Side Specializations - GPA 9.10/10
+• Computer Systems & Computer Software Side Specialization - GPA 9.10/10
 
 #### 3rd Senior High School of Aghia Paraskevi, Athens - *September 2012 until June 2015*
 Certificate GPA 19.7/20  
@@ -47,17 +47,16 @@ Panhellenic University Entrance Examination Score at my Senior High School.
 the Ministry of Education and presented at the “National Consultation on Education”, 2015.
 
 ### Skills
+
 #### Programming
-C, C++, Python & Jupyter, MATLAB: Strong
-
+C, C++, Python & Jupyter, MATLAB: Strong  
 SML, Java, Prolog, SQL and Web: Experienced
+
 #### Languages
-English: Highly Proficient
-
-German: Intermediate
-
+English: Highly Proficient  
+German: Intermediate  
 Greek: Native
-#### Test Scores
-GRE: Q 166/170, V 153/170, A 4.0/6
 
+#### Test Scores
+GRE: Q 166/170, V 153/170, A 4.0/6  
 IELTS Indicator: 8/9
