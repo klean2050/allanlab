@@ -59,7 +59,3 @@ SML, Java, Prolog, SQL and Web: *Experienced*
 English: *Highly Proficient*  
 German: *Intermediate*  
 Greek: *Native*
-
-#### Test Scores
-GRE: Q 166/170, V 153/170, A 4.0/6  
-IELTS Indicator: 8/9
