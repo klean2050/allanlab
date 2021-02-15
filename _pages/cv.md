@@ -14,6 +14,9 @@ permalink: /cv/
 *Location*: Aghia Paraskevi, Attica, Greece  
 *Contact*: +306934633122, kle.avramidis@gmail.com
 
+**[Here](https://klean2050.github.io/projects/) for my research interests**  
+**[Here](https://klean2050.github.io/publications/) for my publications**  
+
 ### Education
 
 #### National Technical University of Athens (NTUA) - *October 2015 until now*
