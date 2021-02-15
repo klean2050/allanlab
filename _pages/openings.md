@@ -3,7 +3,7 @@ title: "Projects"
 layout: textlay
 excerpt: "Projects"
 sitemap: false
-permalink: /vacancies/
+permalink: /projects/
 ---
 
 # Research Projects
