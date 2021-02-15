@@ -1,6 +1,6 @@
 ---
 title: "Kleanthis - Blog"
-layout: homelay
+layout: gridlay
 excerpt: "Blog"
 permalink: /blog/
 ---
