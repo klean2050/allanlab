@@ -20,7 +20,7 @@ Here are some themes I currently work on, or worked in the past:
 
 ### Affective Analysis on EEG and Music
 
-The main research topic of my Diploma Thesis, *Affective Analysis & Interpretation of Brain Responses to Music Stimuli*. (...) It is divided into 3 main parts:
+The main research topic of my Diploma Thesis, *Affective Analysis & Interpretation of Brain Responses to Music Stimuli*. (...)  It is divided into 3 main parts:
 * **Multifractal Analysis on EEG**: 
 * **Deep Architectures for Emotion Recognition**:
 * **EEG & Music Cross-Modal Learning**:
