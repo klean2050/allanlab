@@ -32,7 +32,7 @@ Related Publications:
 
 ...
 * **Augmentation Methods for Audio Mixtures**:
-* **Modelling Audio Waveforms**:
+* **Modeling Audio Waveforms**:
 
 Related Publications:  
 ...
