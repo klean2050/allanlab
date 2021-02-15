@@ -46,9 +46,6 @@ permalink: /publications/
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
-
-
 ### Full List
 
 For a detailed list check my [Google Scholar](https://scholar.google.com/citations?user=mxLN1rUAAAAJ&hl=el) or [ResearchGate](https://www.researchgate.net/profile/Kleanthis_Avramidis).
