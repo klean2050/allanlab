@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Kleanthis Avramidis - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Kleanthis Avramidis"
 sitemap: false
 permalink: /
 ---
