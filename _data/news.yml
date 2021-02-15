@@ -1,6 +1,12 @@
 
 - date: 15 February 2021
-  headline: "<b>New website online! Let's goo</b>"
+  headline: "<b>New website is online!</b>"
+  
+- date: 14 February 2021
+  headline: "Thrilled to participate in <a href='https://qworld.lu.lv/index.php/qbronze53-qgreece/'>QBronze53</a> Quantum Computing and Programming workshop organized by QWorld in Greece."
+  
+- date: 11 February 2021
+  headline: "Accepted to participate in <a href='https://hcap-challenge.mitefgreece.org/eydap-innochallenge/'>HCAP InnoChallenge</a>! Looking forward to building useful models for the public."
   
 - date: 6 February 2021
   headline: "Yeah! Our new <a href='https://arxiv.org/abs/1911.12505'>paper</a> on Instrument Classification has been accepted for publication at <a href='https://2021.ieeeicassp.org/'>ICASSP 2021</a>."
@@ -17,5 +23,5 @@
 - date: 23 December 2020
   headline: "New <a href='https://arxiv.org/abs/2010.16310'>paper on arXiv</a>, on EEG Multifractal Analysis!"
   
-- date: 20 December 2020
+- date: 15 May 2020
   headline: "My first <a href='https://arxiv.org/abs/1911.12505'>paper on arXiv</a>, on Instrument Classification! It is my first publication, at <a href='https://eusipco2020.org/'>EUSIPCO 2020</a>."
