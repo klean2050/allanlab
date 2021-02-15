@@ -1,9 +1,9 @@
 ---
-title: "About the website"
+title: "About"
 layout: textlay
-excerpt: "About the website."
+excerpt: "About"
 sitemap: false
-permalink: /aboutwebsite.html
+permalink: /about.html
 ---
 
 # Use this Site as a Template (by Allan Lab)
