@@ -51,7 +51,7 @@ permalink: /publications/
 
 ### Full List
 
-For a detailed list go to [Google Scholar](https://scholar.google.com/citations?user=mxLN1rUAAAAJ&hl=el) or [ResearchGate](https://www.researchgate.net/profile/Kleanthis_Avramidis)
+For a detailed list check my [Google Scholar](https://scholar.google.com/citations?user=mxLN1rUAAAAJ&hl=el) or [ResearchGate](https://www.researchgate.net/profile/Kleanthis_Avramidis).
 
 {% for publi in site.data.publist %}
 
