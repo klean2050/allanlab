@@ -8,7 +8,7 @@ permalink: /vacancies/
 
 # Research Projects
 
-My specialization lies in the fields of Signal Processing and Machine Learning Applications. Specifically, my research interests include, but are not restricted to:
+My specialization lies in the fields of Signal Processing and Machine Learning Applications. Specifically, my research interests include:
 
 * ...
 * ...
