@@ -8,6 +8,7 @@ permalink: /publications/
 
 # Publications
 
+\
 ### Highlights
 
 {% assign number_printed = 0 %}
