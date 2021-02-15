@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Kleanthis - Projects"
 layout: textlay
 excerpt: "Projects"
 sitemap: false
