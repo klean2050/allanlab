@@ -23,6 +23,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
+  <p></p>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
