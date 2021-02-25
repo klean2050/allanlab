@@ -1,14 +1,30 @@
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
+- title: Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
   image: Pub_327.png
   description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
+    Instrument classification is one of the fields in
+Music Information Retrieval (MIR) that has attracted a lot of
+research interest. However, the majority of that is dealing with
+monophonic music, while efforts on polyphonic material mainly
+focus on predominant instrument recognition. In this paper, we
+propose an approach for instrument classification in polyphonic
+music from purely monophonic data, that involves performing
+data augmentation by mixing different audio segments. A variety
+of data augmentation techniques focusing on different sonic
+aspects, such as overlaying audio segments of the same genre, as
+well as pitch and tempo-based synchronization, are explored. We
+utilize Convolutional Neural Networks for the classification task,
+comparing shallow to deep network architectures. We further investigate the usage of a combination of the above classifiers, each
+trained on a single augmented dataset. An ensemble of VGG-like
+classifiers, trained on non-augmented, pitch-synchronized, temposynchronized and genre-similar excerpts, respectively, yields the
+best results, achieving slightly above 80% in terms of label
+ranking average precision (LRAP) in the IRMAS test set.
   authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+   Agelos Kratimenos, Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013)
+    url: https://arxiv.org/pdf/1911.12505.pdf
+    display: Proc. 28th European Signal Processing Conference, Amsterdam 2020
   highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+  news:
 
 - title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
   image: Pub_nemat2b.png
