@@ -1,41 +1,26 @@
-- title: Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
+- title: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification from Monophonic Raw Audio Waveforms
   image: Pub_327.png
+  description: Sound Event Detection and Audio Classification tasks are traditionally addressed through time-frequency representations of audio signals such as spectrograms. However, the emergence of deep neural networks as efficient feature extractors has enabled the direct use of audio signals for classification purposes.
+  authors: Kleanthis Avramidis, Agelos Kratimenos, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
+  highlight: 1
+  link:
+    url: https://arxiv.org/pdf/2102.06930.pdf
+    display: to appear in Proc. 46th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Ontario, Canada
+ 
+ - title: Multiscale Fractal Analysis on EEG Signals for Music-Induced Emotion Recognition
+  image: Pub_nemat2b.png
+  description: In this paper we employ multifractal analysis to examine the behavior of EEG signals in terms of presence of fluctuations and the degree of fragmentation along their major frequency bands, for the task of emotion recognition.
+  authors: Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
+  link:
+    url: https://arxiv.org/pdf/2010.16310.pdf
+    display:  under review (to be updated soon)
+  highlight: 1
+
+- title: Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
+  image: dummy.png
   description: In this paper, we propose an approach for instrument classification in polyphonic music from purely monophonic data, that involves performing data augmentation by mixing different audio segments. 
   authors: Agelos Kratimenos, Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
   link:
     url: https://arxiv.org/pdf/1911.12505.pdf
-    display: Proc. 28th European Signal Processing Conference, Amsterdam 2020
-  highlight: 1
-  news2:
-
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
-  image: Pub_nemat2b.png
-  description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
-  authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
-  highlight: 1
-  link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
-  link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
-  highlight: 0
-  news2:
-
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
-  link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    display: appeared in Proc. 28th European Signal Processing Conference (EUSIPCO 2020), Amsterdam, Netherlands
   highlight: 0
