@@ -1,11 +1,3 @@
-- title: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification from Monophonic Raw Audio Waveforms
-  description: Sound Event Detection and Audio Classification tasks are traditionally addressed through time-frequency representations of audio signals such as spectrograms. However, the emergence of deep neural networks as efficient feature extractors has enabled the direct use of audio signals for classification purposes.
-  authors: Kleanthis Avramidis, Agelos Kratimenos, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
-  highlight: 1
-  link:
-    url: https://arxiv.org/pdf/2102.06930.pdf
-    display: Proc. 46th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Canada
- 
 - title: Multiscale Fractal Analysis on EEG Signals for Music-Induced Emotion Recognition
   description: In this paper we employ multifractal analysis to examine the behavior of EEG signals in terms of presence of fluctuations and the degree of fragmentation along their major frequency bands, for the task of emotion recognition.
   authors: Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
@@ -14,6 +6,15 @@
     display:  under review (to be updated soon)
   highlight: 0
 
+
+- title: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification from Monophonic Raw Audio Waveforms
+  description: Sound Event Detection and Audio Classification tasks are traditionally addressed through time-frequency representations of audio signals such as spectrograms. However, the emergence of deep neural networks as efficient feature extractors has enabled the direct use of audio signals for classification purposes.
+  authors: Kleanthis Avramidis, Agelos Kratimenos, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
+  highlight: 1
+  link:
+    url: https://arxiv.org/pdf/2102.06930.pdf
+    display: Proc. 46th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Canada
+ 
 - title: Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
   description: In this paper, we propose an approach for instrument classification in polyphonic music from purely monophonic data, that involves performing data augmentation by mixing different audio segments. 
   authors: Agelos Kratimenos, Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
