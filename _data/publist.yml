@@ -4,7 +4,7 @@
   highlight: 1
   link:
     url: https://arxiv.org/pdf/2102.06930.pdf
-    display: Proc. 46th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Ontario, Canada
+    display: Proc. 46th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Canada
  
 - title: Multiscale Fractal Analysis on EEG Signals for Music-Induced Emotion Recognition
   description: In this paper we employ multifractal analysis to examine the behavior of EEG signals in terms of presence of fluctuations and the degree of fragmentation along their major frequency bands, for the task of emotion recognition.
