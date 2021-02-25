@@ -5,7 +5,7 @@
   highlight: 1
   link:
     url: https://arxiv.org/pdf/2102.06930.pdf
-    display: to appear in Proc. 46th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Ontario, Canada
+    display: Proc. 46th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Ontario, Canada
  
 - title: Multiscale Fractal Analysis on EEG Signals for Music-Induced Emotion Recognition
   image: Pub_nemat2b.png
@@ -14,7 +14,7 @@
   link:
     url: https://arxiv.org/pdf/2010.16310.pdf
     display:  under review (to be updated soon)
-  highlight: 1
+  highlight: 0
 
 - title: Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
   image: dummy.png
@@ -22,5 +22,5 @@
   authors: Agelos Kratimenos, Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
   link:
     url: https://arxiv.org/pdf/1911.12505.pdf
-    display: appeared in Proc. 28th European Signal Processing Conference (EUSIPCO 2020), Amsterdam, Netherlands
-  highlight: 0
+    display: Proc. 28th European Signal Processing Conference (EUSIPCO 2020), Amsterdam, Netherlands
+  highlight: 1
