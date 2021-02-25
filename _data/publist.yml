@@ -8,7 +8,7 @@
 
 
 - title: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification from Monophonic Raw Audio Waveforms
-  description: Sound Event Detection and Audio Classification tasks are traditionally addressed through time-frequency representations of audio signals such as spectrograms. However, the emergence of deep neural networks as efficient feature extractors has enabled the direct use of audio signals for classification purposes.
+  description: Sound Event Detection and Audio Classification tasks are traditionally addressed through time-frequency representations of audio signals such as spectrograms. However, the emergence of deep networks as efficient feature extractors has enabled the direct use of audio signals for classification purposes.
   authors: Kleanthis Avramidis, Agelos Kratimenos, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
   highlight: 1
   link:
