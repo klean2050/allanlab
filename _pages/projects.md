@@ -27,10 +27,8 @@ The main research topic of my Diploma Thesis, *Affective Analysis & Interpretati
 
 Related Publications:  
 {% for publi in site.data.publist %}
-{% if publi.project == EEG %}
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endif %}
 {% endfor %}
 
 ### Musical Instrument Classification
