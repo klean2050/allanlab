@@ -25,7 +25,7 @@ The main research topic of my Diploma Thesis, *Affective Analysis & Interpretati
 * **Deep Architectures for Emotion Recognition**:
 * **EEG & Music Cross-Modal Learning**:
 
-####Related Publications:  
+#### Related Publications:  
 {% for publi in site.data.publist %}
 {% if publi.project == "EEG" %}
   {{ publi.title }} <br />
