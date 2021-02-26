@@ -24,8 +24,9 @@ This is the topic of my Diploma Thesis, titled *Affective Analysis & Interpretat
 
 * **Multifractal Analysis on EEG**: The electroencephalogram, like most biological signals, is chaotic, nonlinear and incorporates a large amount of noise. The complex structureof such signals  has proven to be a serious barrier for traditional modeling methods. As a result, several nonlinear fractal methods have been proposed, one of them being the Higuchi Fractal Dimension. Due to their complexity though, such signals do not always share the same structure over every time scale, hence the fractal characteristics may change dynamically or accordingly to the examined scale. For this reason, we propose the *Multiscale Fractal Dimension* and *Multifractal Detrended Fluctuation Analysis* to examine the EEG signals and determine emotional information buried in their fragmented structure.  
 
-* **Deep Architectures for Emotion Recognition**: working on it :)
-* **EEG & Music Cross-Modal Learning**: working on it :)
+* **Deep Architectures for Emotion Recognition**: working on it :)  
+
+* **EEG & Music Cross-Modal Learning**: working on it :)  
 
 ##### Related Publications:  
 {% for publi in site.data.publist %}
