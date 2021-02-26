@@ -28,6 +28,7 @@ This is the topic of my Diploma Thesis, titled *Affective Analysis & Interpretat
 
 * **EEG & Music Cross-Modal Learning**: working on it :)  
 
+
 ##### Related Publications:  
 {% for publi in site.data.publist %}
 {% if publi.project == "EEG" %}
