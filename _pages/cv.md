@@ -10,15 +10,21 @@ permalink: /cv/
 
 ### Personal Details
 
-Location: Athens, Greece  
-Contact: +306934633122, kle.avramidis@gmail.com
+Location: Los Angeles, CA 90007 - United States  
+Contact: +1 (213)-400-7809, avramidi@usc.edu
 
 **[Here](https://klean2050.github.io/projects/) for my research interests**  
 **[Here](https://klean2050.github.io/publications/) for my publications**  
 
 ### Education
 
-#### National Technical University of Athens (NTUA) - *October 2015 until now*
+#### University of Southern California (USC) - *August 2021 until May 2026*
+
+*PhD in Computer Science*
+
+• Advisor: Prof. Shrikanth Narayanan
+
+#### National Technical University of Athens (NTUA) - *October 2015 until July 2021*
 
 *BSc & MEng in Electrical & Computer Engineering (5-year joint degree)*
 
@@ -33,7 +39,11 @@ University Entrance Examination Score: 18.9/20 - top 1% nationwide
 
 ### Research & Work Experience
 
-#### Lab & Research Assistant - *June 2019 until now*
+#### Research Assistant - *August 2021 until -*
+##### Signal Analysis and Interpretation Laboratory, USC
+Conducting Research in Human-Centric Machine Intelligence
+
+#### Undergraduate Research Assistant - *June 2019 until July 2021*
 ##### Computer Vision, Speech Communication & Signal Processing Group, NTUA
 Conducted Research in Signal Processing and Machine Learning applications to Music.  
 Upon Thesis, conducted research on EEG Signal Processing, Fractal Signal Analysis and Cross-Modal Learning.
