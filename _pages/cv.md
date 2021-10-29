@@ -8,7 +8,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-<iframe src="../_data/Curriculum_Vitae.pdf" width="100%" height="800px"> </iframe>
+<object data=".../_data/Curriculum_Vitae.pdf" width="80%" height="1000" type='application/pdf'></object>
 
 ### Personal Details
 
