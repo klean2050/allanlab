@@ -9,7 +9,7 @@ permalink: /cv/
 # Curriculum Vitae
 
 
-<object data="/_data/Curriculum_Vitae.pdf" width="80%" height="1000" type='application/pdf'></object>
+<object data="../../Curriculum_Vitae.pdf" width="80%" height="1000" type='application/pdf'></object>
 
 ### Personal Details
 
