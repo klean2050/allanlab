@@ -17,13 +17,12 @@ My specialization lies in the fields of Signal Processing and Machine Learning A
 
 Here are some themes I currently work on, or worked in the past:
 
-### Affective Analysis on EEG and Music
+<details>
+  <summary><b>Affective Analysis on EEG and Music</b></summary>
+<br>
+Machine Learning has made overwhelming progress in modeling rational intelligence and the way humans perceive and act upon their environment. However, there are still many challenges in approaching emotion-driven intelligence, although it constitutes a fundamental aspect of human's perception. The reason for this is that emotions are highly subjective, and thus really difficult to be labeled when expressed. There is though a growing interest in emotion tagging through physiological signals since those are induced without our active interference and thus depict more clearly the actual affective state. The electroencephalogram (EEG) is the most widely researched signal of this kind. However, processing EEG signals and extracting useful features remain core challenges, since EEG, like most biological signals, incorporates a large amount of noise. In order to investigate the elicited affective characteristics, we choose to examine EEG from people listening to music, as it has been shown that it greatly influences affective operations in the human mind.
 
-This is the topic of my Diploma Thesis, titled *Affective Analysis & Interpretation of Brain Responses to Music Stimuli*. Machine Learning has made overwhelming progress in modeling rational intelligence and the way humans perceive and act upon their environment. However, there are still many challenges in approaching emotion-driven intelligence, although it constitutes a fundamental aspect of human's perception and decision-making processes. The reason for this is that emotions are highly subjective, and thus really difficult to be labeled when expressed. There is though a growing interest in emotion tagging through physiological signals since those are induced without our active interference and thus depict more clearly the actual affective state. The electroencephalogram (EEG) is the most widely researched neuronal signal and has been highly effective in detecting affective states. However, processing EEG signals and extracting useful features remain core challenges, since EEG, like most biological signals, is chaotic, nonlinear and incorporates a large amount of noise, both from the recording equipment and interfering physiological processes. In order to investigate the elicited affective characteristics, we choose to examine EEG from people listening to music, as it has been shown that it greatly influences affective operations in the human mind.
-
-* **Multifractal Analysis on EEG**: The electroencephalogram, like most biological signals, is chaotic, nonlinear and incorporates a large amount of noise. The complex structure of such signals  has proven to be a serious barrier for traditional modeling methods. As a result, several nonlinear fractal methods have been proposed. Due to their complexity though, such signals do not always share the same structure over every time scale, hence the fractal characteristics may change dynamically or accordingly to the examined scale. For this reason, we propose the *Multiscale Fractal Dimension* and *Multifractal Detrended Fluctuation Analysis* to examine the EEG signals and determine emotional information buried in their fragmented structure.  
-
-* **Deep Architectures for Emotion Recognition**: working on it :)  
+* **Multifractal Analysis on EEG**: The electroencephalogram is chaotic, nonlinear and incorporates a large amount of noise. The complex structure of such signals  has proven to be a serious barrier for traditional modeling methods. As a result, several nonlinear fractal methods have been proposed. Due to their complexity though, such signals do not always share the same structure over every time scale, hence the fractal characteristics may change dynamically or accordingly to the examined scale. Hence we propose the *Multiscale Fractal Dimension* and *Multifractal Detrended Fluctuation Analysis* to examine the EEG signals and determine emotional information buried in their fragmented structure.  
 
 * **EEG & Music Cross-Modal Learning**: working on it :)  
 
@@ -34,6 +33,7 @@ Related Publications:
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endif %}
 {% endfor %}
+</details>
 
 ### Musical Instrument Classification
 
