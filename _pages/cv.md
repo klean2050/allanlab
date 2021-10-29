@@ -8,6 +8,8 @@ permalink: /cv/
 
 # Curriculum Vitae
 
+<iframe src="/data/Curriculum_Vitae.pdf" width="100%" height="800px"> </iframe>
+
 ### Personal Details
 
 Location: Los Angeles, CA 90007 - United States  
