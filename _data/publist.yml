@@ -8,7 +8,7 @@
   highlight: 0
   project: EEG
 
-- title: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification \n from Monophonic Raw Audio Waveforms
+- title: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification from Monophonic Raw Audio Waveforms
   description: Sound Event Detection and Audio Classification tasks are traditionally addressed through time-frequency representations of audio signals such as spectrograms. However, the emergence of deep networks as efficient feature extractors has enabled the direct use of audio signals for classification purposes.
   authors: Kleanthis Avramidis, Agelos Kratimenos, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
   venue: Proc. 46th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Canada
@@ -16,7 +16,7 @@
   project: IC
   link:
     url: https://arxiv.org/pdf/2102.06930.pdf
-    display: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification from Monophonic Raw Audio Waveforms
+    display: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification \nfrom Monophonic Raw Audio Waveforms
  
 - title: Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
   description: In this paper, we propose an approach for instrument classification in polyphonic music from purely monophonic data, that involves performing data augmentation by mixing different audio segments. 
