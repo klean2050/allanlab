@@ -8,4 +8,4 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-<iframe src="https://drive.google.com/file/d/194FFIThMIKF6Id6lKmmGq47vNFvVnD1W/preview" width="700" height="800" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/194FFIThMIKF6Id6lKmmGq47vNFvVnD1W/preview" width="800" height="800" allow="autoplay"></iframe>
