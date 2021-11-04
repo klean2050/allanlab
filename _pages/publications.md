@@ -22,11 +22,11 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
+  <pubtit>a href="{{ publi.link.url }}">{{ publi.link.display }}</a></pubtit>
   <p></p>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p><strong>{{ publi.venue }}</strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
  </div>
 </div>
