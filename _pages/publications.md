@@ -51,7 +51,8 @@ For a detailed list check my [Google Scholar](https://scholar.google.com/citatio
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
+  <em>{{ publi.authors }} </em><br />
+  {{ publi.venue }}
 
 {% endfor %}
