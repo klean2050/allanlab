@@ -16,7 +16,7 @@
   project: IC
   link:
     url: https://arxiv.org/pdf/2102.06930.pdf
-    display: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification \nfrom Monophonic Raw Audio Waveforms
+    display: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification from Monophonic Raw Audio Waveforms
  
 - title: Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
   description: In this paper, we propose an approach for instrument classification in polyphonic music from purely monophonic data, that involves performing data augmentation by mixing different audio segments. 
