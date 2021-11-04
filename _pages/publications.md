@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-### Highlights
+#### Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -44,8 +44,6 @@ permalink: /publications/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-### Full List
 
 For a detailed list check my [Google Scholar](https://scholar.google.com/citations?user=mxLN1rUAAAAJ&hl=el) or [ResearchGate](https://www.researchgate.net/profile/Kleanthis_Avramidis).
 
