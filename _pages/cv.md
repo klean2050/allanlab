@@ -8,17 +8,8 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-<div id="adobe-dc-view" style="width: 800px;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "247d8f01d25048f9b183bd4b0c6c3ca9", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-			content:{location: {url: "/_data/Curriculum_Vitae.pdf"}},
-			metaData:{fileName: "Bodea Brochure.pdf"}
-		}, {embedMode: "IN_LINE"});
-	});
-</script>
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375">
 
 Location: Los Angeles, CA 90007 - United States  
 Contact: +1 (213)-400-7809, avramidi@usc.edu
