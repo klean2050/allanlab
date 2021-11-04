@@ -10,8 +10,6 @@ permalink: /cv/
 
 <object data=".../_data/Curriculum_Vitae.pdf" width="80%" height="1000" type='application/pdf'></object>
 
-### Personal Details
-
 Location: Los Angeles, CA 90007 - United States  
 Contact: +1 (213)-400-7809, avramidi@usc.edu
 
