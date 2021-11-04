@@ -8,7 +8,9 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-<object data=".../_data/Curriculum_Vitae.pdf" width="80%" height="1000" type='application/pdf'></object>
+<iframe 
+    src="/_data/Curriculum_Vitae.pdf" width="100%" height="800px">
+</iframe>
 
 Location: Los Angeles, CA 90007 - United States  
 Contact: +1 (213)-400-7809, avramidi@usc.edu
