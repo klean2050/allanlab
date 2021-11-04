@@ -8,7 +8,7 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-<iframe src="https://drive.google.com/file/d/194FFIThMIKF6Id6lKmmGq47vNFvVnD1W/preview" width="800" height="1480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/194FFIThMIKF6Id6lKmmGq47vNFvVnD1W/preview" width="900" height="1000" allow="autoplay"></iframe>
 
 Location: Los Angeles, CA 90007 - United States  
 Contact: +1 (213)-400-7809, avramidi@usc.edu
