@@ -10,7 +10,7 @@ permalink: /projects/
 
 Here are some themes I currently work on, or worked in the past:
 
-### [Affective Analysis on EEG and Music](https://klean2050.github.io/eeg_music.html)
+### [Musical Emotions and EEG Signals](https://klean2050.github.io/eeg_music.html)
 
 ### Musical Instrument Classification
 
