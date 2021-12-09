@@ -15,4 +15,4 @@ My name is Kleanthis <a itemprop="sameAs" content="https://orcid.org/0000-0003-0
 * Multimodal Representation Learning
 * Audio and Music Information Retrieval
 * Affective Computing and Emotion Research
-* Behavioral & Biomedical Signal Processing
+* Behavioral and Biomedical Signal Processing
