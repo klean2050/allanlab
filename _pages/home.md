@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<img src="images/sailing_sketch.jpeg"
+<img src="images/emotions.png"
      alt="Sailing"
      style="float: center" width="620" height="400">
 
