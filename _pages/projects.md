@@ -23,6 +23,6 @@ Related Publications:
 {% for publi in site.data.publist %}
 {% if publi.project == "IC" %}
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.venue }}</a>
 {% endif %}
 {% endfor %}
