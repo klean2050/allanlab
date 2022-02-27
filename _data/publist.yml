@@ -1,6 +1,16 @@
+- title: Enhancing Affective Representations of Music-Induced EEG through Multimodal Supervision and latent Domain Adaptation
+  description: In this paper we extract efficient, personalized affective representations from EEG signals during music listening.
+  authors: Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
+  venue: Proc. 47th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022), Singapore
+  link:
+    url: https://arxiv.org/pdf/2202.09750.pdf
+    display:  Enhancing Affective Representations of Music-Induced EEG through Multimodal Supervision and latent Domain Adaptation
+  highlight: 1
+  project: EEG
+
 - title: Multiscale Fractal Analysis on EEG Signals for Music-Induced Emotion Recognition
   description: In this paper we employ multifractal analysis to examine the behavior of EEG signals in terms of presence of fluctuations and the degree of fragmentation along their major frequency bands, for the task of emotion recognition.
-  authors: Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
+  authors: Kleanthis Avramidis, Athanasia Zlatintsi, Christos Garoufis and Petros Maragos
   venue: Proc. 29th European Signal Processing Conference (EUSIPCO 2021), Dublin, Ireland
   link:
     url: https://arxiv.org/pdf/2010.16310.pdf
@@ -12,7 +22,7 @@
   description: Sound Event Detection and Audio Classification are traditionally addressed through time-frequency representations of audio such as spectrograms. However, the emergence of deep networks as efficient feature extractors has enabled the direct utilization of audio waveforms.
   authors: Kleanthis Avramidis, Agelos Kratimenos, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
   venue: Proc. 46th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Canada
-  highlight: 1
+  highlight: 0
   project: IC
   link:
     url: https://arxiv.org/pdf/2102.06930.pdf

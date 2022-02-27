@@ -12,7 +12,7 @@ Machine Learning has made overwhelming progress in modeling rational intelligenc
 
 * **Multifractal Analysis on EEG**: The electroencephalogram is chaotic, nonlinear and incorporates a large amount of noise. The complex structure of such signals  has proven to be a serious barrier for traditional modeling methods. As a result, several nonlinear fractal methods have been proposed. Due to their complexity though, such signals do not always share the same structure over every time scale, hence the fractal characteristics may change dynamically or accordingly to the examined scale. Hence we propose the *Multiscale Fractal Dimension* and *Multifractal Detrended Fluctuation Analysis* to examine the EEG signals and determine emotional information buried in their fragmented structure.  
 
-* **EEG & Music Cross-Modal Learning**: working on it :)  
+* **EEG & Music Cross-Modal Learning**: The study of Music Cognition and neural responses to music has been invaluable in understanding human emotions. Brain signals, though, manifest a highly complex structure that makes processing and retrieving meaningful features challenging, particularly of abstract constructs like affect. In this paper we extract efficient, personalized affective representations from EEG signals during music listening. To this end, we employ music signals as a supervisory modality to EEG, aiming to project their semantic correspondence onto a common representation space. The experimental findings show the potential of enhancing neuronal data through stimulus information for recognition purposes and yield insights into the distribution and temporal variance of music-induced affective features.
 
 Related Publications:  
 {% for publi in site.data.publist %}
