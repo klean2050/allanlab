@@ -20,7 +20,7 @@ include:
 sass:
   sass_dir: _sass
   
- plugins:
+plugins:
   - jemoji
 
 # Conversion
