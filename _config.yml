@@ -27,9 +27,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-plugins:
-  - jemoji
-
 # Markdown Processing
 kramdown:
   input: GFM
