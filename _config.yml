@@ -19,6 +19,9 @@ include:
 
 sass:
   sass_dir: _sass
+  
+ plugins:
+  - jemoji
 
 # Conversion
 markdown: kramdown
