@@ -2,7 +2,7 @@
 title: "Kleanthis - Blog"
 layout: gridlay
 excerpt: "Blog"
-permalink: /blog/
+permalink: /contact/
 ---
 
 # My Blog
