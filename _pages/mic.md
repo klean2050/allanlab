@@ -6,7 +6,7 @@ sitemap: false
 permalink: /mic.html
 ---
 
-# Musical Instrument Classification
+# 🎷 Musical Instrument Classification
 
 * **Augmentation Methods for Audio Mixtures**: Most research in Instrument Classification deals with monophonic music, while efforts on polyphonic material mainly focus on predominant instrument recognition. Here we propose an approach for polyphonic music from predominantly monophonic data that involves performing data augmentation by mixing different audio segments. A variety of data augmentation techniques focusing on different sonic aspects, such as overlaying audio segments of the same genre, as well as pitch and tempo-based synchronization, are explored and we further investigate the usage of a combination of classifiers implementing the above methods. An ensemble of VGG-like classifiers yields state-of-the-art results for the IRMAS Dataset.
 
