@@ -21,4 +21,4 @@ My research interests include:
 * Behavioral and Biomedical Signal Processing
 * Explainable and Trustworthy Machine Learning
 
-Feel free to get in touch through my [contact details](https://klean2050.github.io/contact/) or at [LinkedIn](https://www.linkedin.com/in/kleanthis-avramidis-274a91114/) & [Twitter](https://twitter.com/KAvramidis) 🗨️
+If you want to collaborate, have questions, or want to get in touch, [hit me up](https://klean2050.github.io/contact/)!
