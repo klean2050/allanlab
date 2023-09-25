@@ -7,7 +7,7 @@ permalink: /contact/
 
 # Contact Details
 
-<div style="margin-top: 10px;
+<div style="margin-top: 10px;">
 <a href="mailto:k.avramidis@windowslive.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=40 /></a>
 <a href="https://www.linkedin.com/in/kleanthis-avramidis-274a91114/" target="_blank"><img height=40 alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=mxLN1rUAAAAJ&hl=en" target="_blank"><img height=40 src="https://img.shields.io/badge/-Scholar-326ac5?style=for-the-badge&logo=Google-Scholar&logoColor=white" /></a>
