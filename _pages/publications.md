@@ -15,10 +15,11 @@ For an updated list check my [Google Scholar](https://scholar.google.com/citatio
   {% assign authors_array = publi.authors | split: ', ' %}
   {% for author in authors_array %}
     {% if author contains "Kleanthis Avramidis" %}
-      <strong><em>{{ author }}</em></strong><br />
+      <strong><em>{{ author }}</em></strong>
     {% else %}
-      <em>{{ author }}</em><br />
+      <em>{{ author }}</em>
     {% endif %}
+    {% unless forloop.last %}, {% endunless %}
   {% endfor %}
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
   {{ publi.venue }}
