@@ -19,4 +19,4 @@ For an updated list check my [Google Scholar](https://scholar.google.com/citatio
 
 {% endfor %}
 -->
-{% include publications %}
+{% include publications link=true %}
