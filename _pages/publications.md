@@ -11,9 +11,16 @@ permalink: /publications/
 For an updated list check my [Google Scholar](https://scholar.google.com/citations?user=mxLN1rUAAAAJ&hl=el) or [ResearchGate](https://www.researchgate.net/profile/Kleanthis_Avramidis).
 
 {% for publi in site.data.publist %}
-
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
   <em>{{ publi.authors }} </em><br />
+  {% assign authors_array = publi.authors | split: ', ' %}
+  {% for author in authors_array %}
+    {% if author contains "Kleanthis Avramidis" %}
+      <strong><em>{{ author }}</em></strong><br />
+    {% else %}
+      <em>{{ author }}</em><br />
+    {% endif %}
+  {% endfor %}
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
   {{ publi.venue }}
 
 {% endfor %}
