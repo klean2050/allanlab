@@ -12,7 +12,7 @@ For an updated list check my [Google Scholar](https://scholar.google.com/citatio
 
 {% for publi in site.data.publist %}
   ![Conference](http://img.shields.io/badge/ICASSP-df0606.svg)<br />
-  <div style="font-size: 14px;">
+  <div style="font-size: 16px;">
   <em>{{ publi.authors | replace: "Kleanthis Avramidis", "<strong>Kleanthis Avramidis</strong>" }} </em><br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
   {{ publi.venue }}
