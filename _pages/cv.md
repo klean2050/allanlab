@@ -3,7 +3,7 @@ title: "Kleanthis - CV"
 layout: gridlay
 excerpt: "Curriculum Vitae"
 sitemap: false
-permalink: /cv/
+permalink: /data/Curriculum_Vitae.pdf
 ---
 
 # Curriculum Vitae
