@@ -16,5 +16,5 @@ Machine Learning has made overwhelming progress in modeling rational intelligenc
 
 Related Software:
 <script src="https://github.com/klean2050/klean2050.github.io/js/gh-cards.js"></script>
-<div class="js/gh-card js/gh-medium" data-repo="klean2050/EEG_CrossModal"></div>
+<div class="gh-card gh-medium" data-repo="klean2050/EEG_CrossModal"></div>
 
