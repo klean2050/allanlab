@@ -15,6 +15,6 @@ Machine Learning has made overwhelming progress in modeling rational intelligenc
 * **EEG & Music Cross-Modal Learning**: The study of Music Cognition and neural responses to music has been invaluable in understanding human emotions. Brain signals, though, manifest a highly complex structure that makes processing and retrieving meaningful features challenging, particularly of abstract constructs like affect. In this paper we extract efficient, personalized affective representations from EEG signals during music listening. To this end, we employ music signals as a supervisory modality to EEG, aiming to project their semantic correspondence onto a common representation space. The experimental findings show the potential of enhancing neuronal data through stimulus information for recognition purposes and yield insights into the distribution and temporal variance of music-induced affective features.
 
 Related Software:
-<script src="/js/gh-cards.js"></script>
+<script src="gh-cards.js"></script>
 <div class="gh-card gh-medium" data-repo="klean2050/EEG_CrossModal"></div>
 
