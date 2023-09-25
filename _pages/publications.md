@@ -15,7 +15,7 @@ For an updated list check my [Google Scholar](https://scholar.google.com/citatio
   {% assign authors_array = publi.authors | split: ', ' %}
   {% for author in authors_array %}
     {% if author contains "Kleanthis Avramidis" %}
-      <strong><em>{{ author }}</em></strong>
+      <strong>{{ author }}</strong>
     {% else %}
       <em>{{ author }}</em>
     {% endif %}
