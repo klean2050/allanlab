@@ -16,7 +16,7 @@ Machine Learning has made overwhelming progress in modeling rational intelligenc
 
 Related Software:
 
-<div class="gh-card gh-medium" data-repo="aranscope/github-cards"></div>
+<div class="gh-card gh-medium" data-repo="klean2050/EEG_CrossModal"></div>
 
 Related Publications:  
 {% for publi in site.data.publist %}
