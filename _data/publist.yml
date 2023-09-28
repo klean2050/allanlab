@@ -1,7 +1,16 @@
+- title: Automating Detection of Papilledema in Pediatric Fundus Images with Explainable Machine Learning
+  authors: Kleanthis Avramidis, Mohammad Rostami, Melinda Chang, Shrikanth Narayanan
+  venue: 29th IEEE International Conference on Image Processing (ICIP 2022), Bordeaux, France
+  badge: ICIP
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9897529
+    display:  Automating Detection of Papilledema in Pediatric Fundus Images with Explainable Machine Learning
+  project: Retinal
+
 - title: Enhancing Affective Representations of Music-Induced EEG through Multimodal Supervision and latent Domain Adaptation
   description: In this paper we extract efficient, personalized affective representations from EEG signals during music listening.
   authors: Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
-  venue: Proc. 47th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022), Singapore
+  venue: 47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022), Singapore
   badge: ICASSP
   link:
     url: https://arxiv.org/pdf/2202.09750.pdf
@@ -12,7 +21,7 @@
 - title: Multiscale Fractal Analysis on EEG Signals for Music-Induced Emotion Recognition
   description: In this paper we employ multifractal analysis to examine the behavior of EEG signals in terms of presence of fluctuations and the degree of fragmentation along their major frequency bands, for the task of emotion recognition.
   authors: Kleanthis Avramidis, Athanasia Zlatintsi, Christos Garoufis and Petros Maragos
-  venue: Proc. 29th European Signal Processing Conference (EUSIPCO 2021), Dublin, Ireland
+  venue: 29th European Signal Processing Conference (EUSIPCO 2021), Dublin, Ireland
   badge: EUSIPCO
   link:
     url: https://arxiv.org/pdf/2010.16310.pdf
@@ -23,7 +32,7 @@
 - title: Deep Convolutional and Recurrent Networks for Polyphonic Instrument Classification from Monophonic Raw Audio Waveforms
   description: Sound Event Detection and Audio Classification are traditionally addressed through time-frequency representations of audio such as spectrograms. However, the emergence of deep networks as efficient feature extractors has enabled the direct utilization of audio waveforms.
   authors: Kleanthis Avramidis, Agelos Kratimenos, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
-  venue: Proc. 46th International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Canada
+  venue: 46th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2021), Toronto, Canada
   badge: ICASSP
   highlight: 0
   project: IC
@@ -34,7 +43,7 @@
 - title: Augmentation Methods on Monophonic Audio for Instrument Classification in Polyphonic Music
   description: In this paper, we propose an approach for instrument classification in polyphonic music from purely monophonic data, that involves performing data augmentation by mixing different audio segments. 
   authors: Agelos Kratimenos, Kleanthis Avramidis, Christos Garoufis, Athanasia Zlatintsi and Petros Maragos
-  venue: Proc. 28th European Signal Processing Conference (EUSIPCO 2020), Amsterdam, Netherlands
+  venue: 28th European Signal Processing Conference (EUSIPCO 2020), Amsterdam, Netherlands
   badge: EUSIPCO
   link:
     url: https://arxiv.org/pdf/1911.12505.pdf
