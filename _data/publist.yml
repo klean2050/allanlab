@@ -1,3 +1,48 @@
+- title: Scaling Representation Learning from Ubiquitous ECG with State-Space Models
+  authors: Kleanthis Avramidis, Dominika Kunc, Bartosz Perz, Kranti Adsul, Tiantian Feng, Przemysław Kazienko, Stanisław Saganowski, Shrikanth Narayanan. 
+  venue: arXiv preprint arXiv:2309.15292 (currently under review)
+  badge: ARXIV
+  link:
+    url: https://arxiv.org/pdf/2309.15292.pdf
+    display:  Scaling Representation Learning from Ubiquitous ECG with State-Space Models
+  project: ECG
+
+- title: Emotion-Aligned Contrastive Learning Between Images and Music
+  authors: Shanti Stewart, Kleanthis Avramidis, Tiantian Feng, Shrikanth Narayanan
+  venue: arXiv preprint arXiv:2308.12610 (currently under review)
+  badge: ARXIV
+  link:
+    url: https://arxiv.org/pdf/2308.12610
+    display:  Emotion-Aligned Contrastive Learning Between Images and Music
+  project: Multimedia
+
+- title: Multimodal Estimation Of Change Points Of Physiological Arousal During Driving
+  authors: Kleanthis Avramidis, Tiantian Feng, Digbalay Bose, Shrikanth Narayanan
+  venue: IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW 2023)
+  badge: ICASSPW
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10193718
+    display:  Multimodal Estimation Of Change Points Of Physiological Arousal During Driving
+  project: BioSP
+
+- title: Signal Processing Grand Challenge 2023–E-Prevention: Sleep Behavior as an Indicator of Relapses in Psychotic Patients
+  authors: Kleanthis Avramidis, Kranti Adsul, Digbalay Bose, Shrikanth Narayanan
+  venue: 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes, Greece
+  badge: ICASSP
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096044
+    display:  Signal Processing Grand Challenge 2023: Sleep Behavior as an Indicator of Relapses in Psychotic Patients
+  project: BioSP
+
+- title: On the Role of Visual Context in Enriching Music Representations
+  authors: Kleanthis Avramidis, Shanti Stewart, Shrikanth Narayanan
+  venue: 48th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2023), Rhodes, Greece
+  badge: ICASSP
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10094915
+    display:  On the Role of Visual Context in Enriching Music Representations
+  project: Multimedia
+
 - title: Automating Detection of Papilledema in Pediatric Fundus Images with Explainable Machine Learning
   authors: Kleanthis Avramidis, Mohammad Rostami, Melinda Chang, Shrikanth Narayanan
   venue: 29th IEEE International Conference on Image Processing (ICIP 2022), Bordeaux, France
