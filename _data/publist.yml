@@ -1,7 +1,7 @@
 - title: Scaling Representation Learning from Ubiquitous ECG with State-Space Models
   authors: Kleanthis Avramidis, Dominika Kunc, Bartosz Perz, Kranti Adsul, Tiantian Feng, Przemysław Kazienko, Stanisław Saganowski, Shrikanth Narayanan. 
   venue: arXiv preprint arXiv:2309.15292 (currently under review)
-  badge: ARXIV
+  badge: arXiv
   link:
     url: https://arxiv.org/pdf/2309.15292.pdf
     display:  Scaling Representation Learning from Ubiquitous ECG with State-Space Models
@@ -10,7 +10,7 @@
 - title: Emotion-Aligned Contrastive Learning Between Images and Music
   authors: Shanti Stewart, Kleanthis Avramidis, Tiantian Feng, Shrikanth Narayanan
   venue: arXiv preprint arXiv:2308.12610 (currently under review)
-  badge: ARXIV
+  badge: arXiv
   link:
     url: https://arxiv.org/pdf/2308.12610
     display:  Emotion-Aligned Contrastive Learning Between Images and Music
