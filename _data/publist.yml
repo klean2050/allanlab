@@ -5,6 +5,7 @@
   link:
     url: https://arxiv.org/pdf/2309.15292.pdf
     display:  Scaling Representation Learning from Ubiquitous ECG with State-Space Models
+  code: https://github.com/klean2050/tiles_ecg_model
   project: ECG
 
 - title: Emotion-Aligned Contrastive Learning Between Images and Music
@@ -14,6 +15,7 @@
   link:
     url: https://arxiv.org/pdf/2308.12610
     display:  Emotion-Aligned Contrastive Learning Between Images and Music
+  code: https://github.com/klean2050
   project: Multimedia
 
 - title: Multimodal Estimation Of Change Points Of Physiological Arousal During Driving
