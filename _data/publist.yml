@@ -23,7 +23,7 @@
   badge: ICASSPW
   link:
     url: https://arxiv.org/pdf/2210.15826.pdf
-    doi: doi.org/10.1109/ICASSPW59220.2023.10193718
+    doi: https://doi.org/10.1109/ICASSPW59220.2023.10193718
     code: https://github.com/usc-sail/ggs_driving
     display:  Multimodal Estimation Of Change Points Of Physiological Arousal During Driving
   project: BioSP
