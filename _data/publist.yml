@@ -4,7 +4,6 @@
   badge: arXiv
   link:
     url: https://arxiv.org/pdf/2309.15292.pdf
-    doi:
     code: https://github.com/klean2050/tiles_ecg_model
     display:  Scaling Representation Learning from Ubiquitous ECG with State-Space Models
   project: ECG
@@ -15,8 +14,6 @@
   badge: arXiv
   link:
     url: https://arxiv.org/pdf/2308.12610
-    doi:
-    code:
     display:  Emotion-Aligned Contrastive Learning Between Images and Music
   project: Multimedia
 
