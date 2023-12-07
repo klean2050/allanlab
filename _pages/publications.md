@@ -8,7 +8,7 @@ permalink: /publications/
 
 # Publications
 
-For an updated list check my [Google Scholar](https://scholar.google.com/citations?user=mxLN1rUAAAAJ&hl=el) or [ResearchGate](https://www.researchgate.net/profile/Kleanthis_Avramidis).
+For an updated list check my [Google Scholar](https://scholar.google.com/citations?user=mxLN1rUAAAAJ&hl=el).
 
 {% for publi in site.data.publist %}
   {% if publi.link.doi %} <a href="{{ publi.link.doi }}"><img src="http://img.shields.io/badge/{{ publi.badge }}-c41e3a" height="23" /></a> {% else %} <img src="http://img.shields.io/badge/{{ publi.badge }}-c41e3a" height="23" /> {% endif %}
