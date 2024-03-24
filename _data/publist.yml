@@ -1,3 +1,39 @@
+- title: Unveiling Stress and Behavioral Patterns in Work Environments through Ubiquitous Sensing
+  authors: Kleanthis Avramidis, Tiantian Feng, Madeline Parga, Aditya Kommineni, Angelly Cabrera, Gale M. Lucas, Burçin Becerik-Gerber, Shawn C. Roll, Shrikanth Narayanan
+  venue: (currently under review)
+  badge: arXiv
+  link:
+    display:  Unveiling Stress and Behavioral Patterns in Work Environments through Ubiquitous Sensing
+  project: BioSP
+
+- title: Knowledge-guided EEG Representation Learning
+  authors: Aditya Kommineni, Kleanthis Avramidis, Richard Leahy, Shrikanth Narayanan
+  venue: arXiv preprint arXiv:2403.03222 (currently under review)
+  badge: arXiv
+  link:
+    url: https://arxiv.org/pdf/2403.03222v1.pdf
+    display:  Knowledge-guided EEG Representation Learning
+  project: BioSP
+
+- title: Evaluating Atypical Gaze Patterns through Vision Models, The Case of Cortical Visual Impairment
+  authors: Kleanthis Avramidis, Melinda Y Chang, Rahul Sharma, Mark S Borchert, Shrikanth Narayanan
+  venue: arXiv preprint arXiv:2402.09655 (currently under review)
+  badge: arXiv
+  link:
+    url: https://arxiv.org/pdf/2402.09655.pdf
+    code: https://github.com/klean2050/cvi-eye-tracking
+    display:  Artificial Intelligence to Differentiate Pediatric Pseudopapilledema and True Papilledema on Fundus Photographs
+  project: Ophthalmology
+
+- title: Artificial Intelligence to Differentiate Pediatric Pseudopapilledema and True Papilledema on Fundus Photographs
+  authors: Melinda Y Chang, Gena Heidary, Shannon Beres, Stacy L Pineles, Eric D Gaier, Ryan Gise, Mark Reid, Kleanthis Avramidis, Mohammad Rostami, Shrikanth Narayanan
+  venue: Ophthalmology Science
+  badge: Ophthalmology
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2666914524000320
+    display:  Artificial Intelligence to Differentiate Pediatric Pseudopapilledema and True Papilledema on Fundus Photographs
+  project: Ophthalmology
+
 - title: Scaling Representation Learning from Ubiquitous ECG with State-Space Models
   authors: Kleanthis Avramidis, Dominika Kunc, Bartosz Perz, Kranti Adsul, Tiantian Feng, Przemysław Kazienko, Stanisław Saganowski, Shrikanth Narayanan
   venue: arXiv preprint arXiv:2309.15292 (currently under review)
@@ -6,14 +42,16 @@
     url: https://arxiv.org/pdf/2309.15292.pdf
     code: https://github.com/klean2050/tiles_ecg_model
     display:  Scaling Representation Learning from Ubiquitous ECG with State-Space Models
-  project: ECG
+  project: BioSP
 
 - title: Emotion-Aligned Contrastive Learning Between Images and Music
   authors: Shanti Stewart, Kleanthis Avramidis, Tiantian Feng, Shrikanth Narayanan
-  venue: arXiv preprint arXiv:2308.12610 (currently under review)
-  badge: arXiv
+  venue: 49th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024), Seoul, Korea
+  badge: ICASSP
   link:
     url: https://arxiv.org/pdf/2308.12610
+    doi: https://doi.org/10.1109/ICASSP.2024.10000000
+    code: https://github.com/shantistewart/Emo-CLIM
     display:  Emotion-Aligned Contrastive Learning Between Images and Music
   project: Multimedia
 
@@ -58,7 +96,7 @@
     doi: https://doi.org/10.1109/ICIP46576.2022.9897529
     code: https://github.com/klean2050/papilledema
     display:  Automating Detection of Papilledema in Pediatric Fundus Images with Explainable Machine Learning
-  project: Retinal
+  project: Ophthalmology
 
 - title: Enhancing Affective Representations of Music-Induced EEG through Multimodal Supervision and latent Domain Adaptation
   description: In this paper we extract efficient, personalized affective representations from EEG signals during music listening.

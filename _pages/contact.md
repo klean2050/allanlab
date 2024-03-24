@@ -18,5 +18,6 @@ permalink: /contact/
 <div style="margin-top: 50px;">
 Kleanthis Avramidis<br />
 3710 McClintock Ave, RTH 318<br />
+University of Southern California<br />
 Los Angeles, CA 90089, United States
 </div>
